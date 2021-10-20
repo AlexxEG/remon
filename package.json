@@ -21,7 +21,7 @@
   "author": "Bjørge Næss",
   "license": "MIT",
   "dependencies": {
-    "ansi-html": "0.0.4",
+    "ansi-html-community": "0.0.8",
     "debug": "^2.1.3",
     "http-proxy": "^1.11.1",
     "inherits": "^2.0.1",
